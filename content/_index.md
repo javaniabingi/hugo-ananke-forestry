@@ -1,5 +1,5 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: 'UNITRIBE '
 featured_image: "/images/workers-1.jpeg"
 description: UNITRIBE for a better future
 
